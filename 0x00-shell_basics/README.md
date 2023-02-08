@@ -1,1 +1,1 @@
-Print the working directory
+list all files of the directory
